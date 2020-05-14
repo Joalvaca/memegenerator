@@ -1,0 +1,18 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+.title {
+  margin-left: 37%;
+}

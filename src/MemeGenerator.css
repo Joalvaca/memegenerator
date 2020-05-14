@@ -1,0 +1,37 @@
+.meme-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 3%;
+}
+.top-text-input {
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.bottom-text-input {
+  padding: 10px;
+  text-align: center;
+}
+.submit-button {
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.top-text {
+  position: absolute;
+  top: 8px;
+  left: 45%;
+  color: white;
+}
+.bottom-text {
+  position: absolute;
+  bottom: 8px;
+  left: 45%;
+  color: white;
+}
+.meme {
+  margin-top: 20px;
+  position: relative;
+  text-align: center;
+}
